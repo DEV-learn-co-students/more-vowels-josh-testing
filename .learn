@@ -1,11 +1,11 @@
+---
 tags:
-  - conditional expressions
-  - control flow
-  - case statements
-  - strings
-  - methods
-  - arrays
-  - timtowtdi
+- conditional expressions
+- control flow
+- case statements
+- strings
+- methods
+- arrays
 languages:
-  - ruby
+- ruby
 resources: 1
