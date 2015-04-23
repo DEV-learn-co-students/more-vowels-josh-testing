@@ -6,7 +6,7 @@
 
 # More Vowels
 
-### Skills: Control Flow, Creativity
+### Skills: Control Flow, Creativity, Alphabet
 
 ## Instructions
 
